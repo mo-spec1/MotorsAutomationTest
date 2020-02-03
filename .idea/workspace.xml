@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efc2ca2b-2f83-4e92-a381-18bf7487146b" name="Default Changelist" comment="Changes the Spelling of 'Bentley'">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/moses.xml" afterDir="false" />
+    <list default="true" id="efc2ca2b-2f83-4e92-a381-18bf7487146b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/uk/motors/runner/TestRunnerMotors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/uk/motors/features/SearchForCars.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/uk/motors/features/SearchForCars.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -36,7 +42,93 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunnerMotors (1)">
+    <configuration name="TestRunnerMotors (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MotorsAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.motors.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.motors.runner" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.motors.runner.TestRunnerMotors" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerMotors (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MotorsAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.motors.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.motors.runner" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.motors.runner.TestRunnerMotors" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerMotors (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MotorsAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.motors.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.motors.runner" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.motors.runner.TestRunnerMotors" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerMotors (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MotorsAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.motors.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.motors.runner" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.motors.runner.TestRunnerMotors" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunnerMotors (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MotorsAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.uk.motors.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.uk.motors.runner" />
+      <option name="MAIN_CLASS_NAME" value="co.uk.motors.runner.TestRunnerMotors" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunnerMotors (1)" />
+        <item itemvalue="JUnit.TestRunnerMotors (5)" />
+        <item itemvalue="JUnit.TestRunnerMotors (4)" />
+        <item itemvalue="JUnit.TestRunnerMotors (3)" />
+        <item itemvalue="JUnit.TestRunnerMotors (2)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,46 +162,81 @@
       <option name="project" value="LOCAL" />
       <updated>1580688209079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes the Spelling of 'Bentley' and added 'bentayga' to dictionary">
+      <created>1580688458014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580688458014</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setting up new project with new repo on Github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up new project with new repo on Github" />
+    <MESSAGE value="Changes the Spelling of 'Bentley' and added 'bentayga' to dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes the Spelling of 'Bentley' and added 'bentayga' to dictionary" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1236" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580686835336">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1236" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580686835336" />
-    <state x="-1490" y="103" width="1289" height="852" key="CommitChangelistDialog2" timestamp="1580688410031">
+    <state x="-1490" y="103" width="1289" height="852" key="CommitChangelistDialog2" timestamp="1580688457622">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1490" y="103" width="1289" height="852" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688410031" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1580687485083">
+    <state x="-1490" y="103" width="1289" height="852" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688457622" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1580689941560">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687485083" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1580687485083">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689941560" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1580689941560">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687485083" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1580687485083">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689941560" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1580689941559">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687485083" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1580687485083">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689941559" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1580689941560">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687485083" />
-    <state x="-1459" y="168" key="SettingsEditor" timestamp="1580687305335">
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689941560" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1580689862490">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1459" y="168" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687305335" />
-    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580688211735">
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689862490" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1580689862490">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688211735" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689862490" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1580689862490">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689862490" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1580689862490">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580689862490" />
+    <state x="-1459" y="168" key="SettingsEditor" timestamp="1580690108701">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="168" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580690108701" />
+    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580688460369">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688460369" />
     <state x="-1151" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580688013993">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
