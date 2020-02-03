@@ -11,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -62,10 +67,10 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1236" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580686835336" />
-    <state x="-1327" y="120" width="1289" height="831" key="CommitChangelistDialog2" timestamp="1580687957037">
+    <state x="-1490" y="103" width="1289" height="852" key="CommitChangelistDialog2" timestamp="1580688099626">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1327" y="120" width="1289" height="831" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687957037" />
+    <state x="-1490" y="103" width="1289" height="852" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688099626" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1580687485083">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
@@ -86,10 +91,10 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1459" y="168" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687305335" />
-    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580687969973">
+    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580688089866">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687969973" />
+    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688089866" />
     <state x="-1151" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580688013993">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
