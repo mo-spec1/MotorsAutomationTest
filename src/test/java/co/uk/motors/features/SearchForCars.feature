@@ -15,4 +15,4 @@ Feature: Customer can view a product detail
   | Postcode | Make       | Model      | Minimum | Maximum  | Product              |
   | M1 1FT   | Audi       | A3         | £2,000  | £30,000  | Audi A3              |
   | RM15 6EU | Land Rover | Discovery  | £7,000  | £40,000  | Land Rover Discovery |
-  | OL10 6YG | Bently     | Bentayga   | £88,000 | £219,000 | Bently Bentayga      |
+  | OL10 6YG | Bentley    | Bentayga   | £88,000 | £219,000 | Bentley Bentayga     |
