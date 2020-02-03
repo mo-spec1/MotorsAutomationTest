@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efc2ca2b-2f83-4e92-a381-18bf7487146b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="SvnConfiguration">
@@ -41,13 +43,29 @@
       <option name="presentableId" value="Default" />
       <updated>1580686328020</updated>
     </task>
+    <task id="LOCAL-00001" summary="Setting up new project with new repo on Github">
+      <created>1580687957413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580687957413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setting up new project with new repo on Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setting up new project with new repo on Github" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1236" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580686835336">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1236" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580686835336" />
+    <state x="-1327" y="120" width="1289" height="831" key="CommitChangelistDialog2" timestamp="1580687957037">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1327" y="120" width="1289" height="831" key="CommitChangelistDialog2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687957037" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1580687485083">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
@@ -68,5 +86,13 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1459" y="168" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687305335" />
+    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2" timestamp="1580687969973">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1368" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580687969973" />
+    <state x="-1151" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580688013993">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1151" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1580688013993" />
   </component>
 </project>
